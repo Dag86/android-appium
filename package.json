@@ -1,0 +1,17 @@
+{
+  "name": "appium-android-testing",
+  "version": "1.0.0",
+  "description": "This project automates a native Android application using Appium and TypeScript.  \r Built for test coverage, CI/CD integration, and real-world mobile workflows.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
