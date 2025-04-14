@@ -1,5 +1,10 @@
 node_modules/
-dist/
 logs/
-reports/
+dist/
 *.log
+*.tmp
+*.apk
+reports/
+.idea/
+.DS_Store
+.env
