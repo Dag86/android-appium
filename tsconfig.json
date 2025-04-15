@@ -8,5 +8,5 @@
     "outDir": "./dist",
     "strict": true
   },
-  "include": ["tests/**/*.ts"]
+  "include": ["tests/**/*.ts", "wdio.conf.ts"],
 }
